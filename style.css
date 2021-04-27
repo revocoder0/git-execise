@@ -7,3 +7,8 @@ h1{
 	height: 100px;
 	background-color: skyblue;
 }
+.foot{
+	width: 100%;
+	height: 50px;
+	background-color: black;
+}
