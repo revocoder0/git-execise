@@ -1,14 +1,6 @@
-h1{
-	color:red;
-
+.carousel_img{
+	height: 434px;
 }
-.container{
-	width: 200px;
-	height: 100px;
-	background-color: skyblue;
-}
-.foot{
-	width: 100%;
-	height: 50px;
-	background-color: black;
+.carousel-slide{
+	margin-top: 20px;
 }
